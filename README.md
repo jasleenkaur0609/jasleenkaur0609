@@ -1,5 +1,5 @@
 -  Hi, I’m @jasleenkaur0609
--  I’m studying in first year of college.
+-  I’m studying in second year of college.
 -  I’m currently learning python.
 -  I’m from CSE branch. 
 -  I will share some concepts related to programming language as well as different subjects in CSE.
