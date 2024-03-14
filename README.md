@@ -1,9 +1,8 @@
 -  Hi, I’m @jasleenkaur0609
--  I’m studying in second year of college.
--  I’m currently learning python.
+-  Pursuing my bachelors from Chitkara University, Punjab
+-  Currently in the Pre-Final year of the university
 -  I’m from CSE branch. 
--  I will share some concepts related to programming language as well as different subjects in CSE.
--  You can ask anything related to the content in the discussion.
+- 
 
 <!---
 jasleenkaur0609/jasleenkaur0609 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
