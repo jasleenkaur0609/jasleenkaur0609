@@ -1,26 +1,33 @@
-👩‍💻 About Me
-Hello everyone!  I'm Jasleen Kaur, an enthusiastic pre-final year student of Computer Science Engineering with a penchant for troubleshooting and coding. I adore learning about new technologies and using coding to make ideas come to life.
+# 👩‍💻 About Me
 
-🚀 Skills
+Hi there! I'm **Jasleen Kaur**, a Computer Science Engineering graduate and passionate **MERN Stack Developer**. I love turning ideas into real-world web applications through clean, efficient code. I’m always excited to learn new technologies and solve challenging problems.
 
-Frontend: HTML, CSS, JavaScript
-Backend: Node.js, Express
-Frameworks: React.js
-Databases: MySQL, MongoDB
-Languages: Java
-Other: Git, Responsive Design
+---
 
-📫 Connect With Me
+## 🚀 Skills
 
-Let's connect on www.linkedin.com/in/jasleen-kaur-0892b9204
-Shoot me an email at jasleensejal2003@gmail.com.
+**Frontend:** HTML, CSS, JavaScript  
+**Backend:** Node.js, Express  
+**Frameworks & Libraries:** React.js  
+**Databases:** MySQL, MongoDB  
+**Languages:** Java  
+**Tools:** Git, Responsive Design
 
-🌟 Fun Facts
+---
 
-Love exploring new cuisines and cooking up a storm in the kitchen.
-Enjoying the art of cooking while experimenting with flavors and recipes.
-Music enthusiast, often found with headphones on, exploring different genres while coding or relaxing.
-<!---
-jasleenkaur0609/jasleenkaur0609 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 📫 Connect With Me
+
+🔗 [LinkedIn](https://www.linkedin.com/in/jasleen-kaur-0892b9204)  
+📧 jasleensejal2003@gmail.com  
+
+---
+
+## 🌟 Fun Facts
+
+- 🍳 Foodie at heart — love cooking and experimenting with recipes  
+- 🎧 Music keeps me focused — coding + playlists = perfect combo  
+- 🧠 Lifelong learner — always exploring new tech and creative solutions  
+
+---
+
+_Thanks for visiting! Let’s collaborate and build something awesome._
